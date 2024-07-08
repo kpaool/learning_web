@@ -9,10 +9,10 @@ You will build a movie review web app where a user can create and account, searc
 
 The app might look a little bit like this
 - Homepage
-![[Pasted image 20240708144608.png]]
+![[assets/home.png]]
 - Review page
 
-![[Pasted image 20240708144729.png]]
+![[assets/review.png]]
 
 
 The overview is as below;
