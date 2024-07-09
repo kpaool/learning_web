@@ -16,7 +16,7 @@ The app might look a little bit like this
 
 
 The overview is as below;
-## Week one
+## [Week one](<Study plan.md#Week one(Start of minor project)>)
 In this, you will get to better understand to programming. In this week all labs will help you better understand programming. You will also learning a bit of linux to help better understand commands and also you will learn docker in order to have your programs run the same way even on different devices.
 
 ## Week two
