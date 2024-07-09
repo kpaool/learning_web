@@ -1,8 +1,21 @@
 # Week one(Start of minor project)
 ## Day one(Introduction to programming)
+This section is purely to get you start with programming and understanding of what programming is. It will cover general understanding and no particular programming language.
 
-Notes:
-- What languages are used for what
+Watch these videos as your learning resource
+[Introduction to Programming and Computer Science - Full Course (youtube.com)](https://www.youtube.com/watch?v=zOjov-2OZ0E)
+
+#### Lab
+You will write answers to the questions below. This is open book but if you can answer from simply watching the video above.
+```
+- What is the difference between a high level and low level programming language?
+- What are some popular programming languages?
+- Besides codingbat, coderbyte and hackerrank, are there other websites where you can practice your coding skills?
+- What are some data structures?
+- What is game design?
+- What is data science?
+- Besides taking classes in high school, what other ways are there to learn programming?
+```
 ## Day two(Linux & Git)
 ## Day three(Docker and more Git)
 
