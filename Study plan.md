@@ -68,11 +68,21 @@ In conclusion, technology has had a profound impact on modern education, providi
 
 Once you are done with the lab, run the history command, take a screenshot and submit your answer to the github repository.
 ## Day three(Docker and more Git)
+Day three you will build on your understanding of linux and learn Docker, docker images and docker compose.
+
+Docker is used to run applications on any machine and ensuring that all configurations are the same.
 
 [Understanding docker](https://www.youtube.com/watch?v=gAkwW2tuIqE) 
 [you need to learn Docker RIGHT NOW!! // Docker Containers 101 - YouTube](https://www.youtube.com/watch?v=eGz9DS-aIeY)
+[Docker Compose will BLOW your MIND!! (a tutorial) (youtube.com)](https://www.youtube.com/watch?v=DM65_JyGxCo)
 
+#### Lab
+Follow the instructions in the github repository here: [searxng/searxng-docker: The docker-compose files for setting up a SearXNG instance with docker. (github.com)](https://github.com/searxng/searxng-docker)
 
+You are to deploy your own meta search engine using docker and run it on your local installation of linux. Follow the instructions on the readme file.
+
+**Tips**
+Since you don't have a domain, in place of hostname just use localhost
 # Week two
 ## Day one(HTML, CSS)
 
