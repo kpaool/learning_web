@@ -92,6 +92,7 @@ This week we shall learn how to setup an html page, style it using css and then 
 Todays lab is to develop the following screen using html, css and tailwind
 Use tailwind cdn instead if installing
 ![](assets/home.png)
+Place the code in a github repository and then place the link to the repo in the answers file
 ## Day two(More HTML and css)
 
 
