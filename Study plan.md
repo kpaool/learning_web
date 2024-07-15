@@ -84,18 +84,25 @@ You are to deploy your own meta search engine using docker and run it on your lo
 **Tips**
 Since you don't have a domain, in place of hostname just use localhost
 # Week two
-## Day one(HTML, CSS)
+## Day one(HTML, CSS, Tailwind)
+This week we shall learn how to setup an html page, style it using css and then advance to tailwind which makes it easier to style the page without much code.
+[Learning HTML CSS](https://www.youtube.com/watch?v=qz0aGYrrlhU)
+[Tailwind css tutorial](https://www.youtube.com/watch?v=UBOj6rqRUME)
+#### Lab
+Todays lab is to develop the following screen using html, css and tailwind
+Use tailwind cdn instead if installing
+![](assets/home.png)
+## Day two(More HTML and css)
 
-## Day two(Tailwind)
 
-## Day three (Web frameworks)
+## Day three (JavaScript, node modules and environment variables)
 
 # Week three (Start of main project)
-## Day one(JavaScript, node modules and environment variables)
 
-## Day two(The web, http protocol and http methods)
+## Day one(The web, http protocol and http methods)
 [OMDb API - The Open Movie Database](https://www.omdbapi.com/)
 
+## Day two(TBC)
 ## Day three(routing and templating)
 
 # Week four
