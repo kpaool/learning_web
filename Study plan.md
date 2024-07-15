@@ -102,8 +102,9 @@ Use tailwind cdn instead if installing
 ## Day one(The web, http protocol and http methods)
 [OMDb API - The Open Movie Database](https://www.omdbapi.com/)
 
-## Day two(TBC)
-## Day three(routing and templating)
+## Day two(routing and templating)
+## Day three(TBC)
+
 
 # Week four
 ## Day one(DOM events and handling)
