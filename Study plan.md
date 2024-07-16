@@ -99,32 +99,32 @@ Below are a couple of HTML web pages that we shall need to design.
 Each page will require different ways to design and build them 
 
 Design 1
-![](<screen (2).png>)
+![](<assets/screenshots/screen (2).png>)
 
 Design 2
-![](<screen (3).png>)
+![](<assets/screenshots/screen (3).png>)
 
 Design 3
-![](<screen (4).png>)
+![](<assets/screenshots/screen (4).png>)
 
 Design 4
-![](<screen (5).png>)
+![](<assets/screenshots/screen (5).png>)
 
 Design 5
-![](<screen (6).png>)
+![](<assets/screenshots/screen (6).png>)
 
 Design 6
-![](<screen (6).png>)
+![](<assets/screenshots/screen (6).png>)
 
 Design 7
-![](<screen (8).png>)
+![](<assets/screenshots/screen (8).png>)
 
 Design 8
-![](<screen (9).png>)
+![](<assets/screenshots/screen (9).png>)
 
 
 Design 10
-![](<screen (10).png>)
+![](<assets/screenshots/screen (10).png>)
 ## Day three (JavaScript, node modules and environment variables)
 
 # Week three (Start of main project)
