@@ -98,6 +98,7 @@ Today learning will simply be more labs and more learning HTML and CSS.
 Below are a couple of HTML web pages that we shall need to design.
 Each page will require different ways to design and build them 
 
+#### Lab
 Design 1
 ![](<assets/screenshots/screen (2).png>)
 
@@ -126,6 +127,14 @@ Design 8
 Design 10
 ![](<assets/screenshots/screen (10).png>)
 ## Day three (JavaScript, node modules and environment variables)
+Today we begin Javascript. Below is content for your consumption
+[JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour (youtube.com)](https://www.youtube.com/watch?v=W6NZfCO5SIk) 
+[(8) Node.js Tutorial for Beginners: Learn Node in 1 Hour - YouTube](https://www.youtube.com/watch?v=TlB_eWDSMt4)
+[Learn DOM Manipulation In 18 Minutes (youtube.com)](https://www.youtube.com/watch?v=y17RuWkWdn8)
+
+These should give you an understanding of the javascript and the web.
+#### Lab
+For all the previous web project, you will add javascript to them, initialise node project.
 
 # Week three (Start of main project)
 
