@@ -36,6 +36,8 @@
 ---
 
 >Week two
+>>Day one
+>>> Website design - https://github.com/Zences/Rating-website
 >> Day two
 >>> Design 1 - https://github.com/Zences/Design1
 >>> Design 5 - https://github.com/Zences/Design-5
