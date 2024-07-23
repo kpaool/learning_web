@@ -34,3 +34,9 @@
 >>- You could apply for an internship.
 >>- You could practice doing coding challanges.
 ---
+
+>Week two
+>> Day two
+>>> Design 1 - https://github.com/Zences/Design1
+>>> Design 5 - https://github.com/Zences/Design-5
+>>> Design 8 - https://github.com/Zences/Design-8
