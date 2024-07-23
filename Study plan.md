@@ -139,7 +139,22 @@ For all the previous web project, you will add javascript to them, initialise no
 # Week three (Start of main project)
 
 ## Day one(The web, http protocol and http methods)
+Watch and where you can, follow along with content below as this topic will be extemely useful for the project. Watch the entire playlist 
+[What is an API? | Intro to APIs Part 1 (youtube.com)](https://www.youtube.com/watch?v=p6f58wTPGf8&list=PLM-7VG-sgbtA-MUiVgE-SwK_RkYgesikH) 
+
+
+Register for an account and get an API key that you will use are we build the project
 [OMDb API - The Open Movie Database](https://www.omdbapi.com/)
+
+#### Lab
+Todays lab you will install either [Postman API Platform | Sign Up for Free](https://www.postman.com/) or [HTTPie – API testing client that flows with you](https://httpie.io/) as your http client
+
+Use the OMDB Api to learn how the api works using any one of the http clients.
+For submission, simply take screenshots of the api calls and results you get and place those results in the answers file.
+
+Alternatively, look for more open api that you can interact with. You might to obtain API keys for the as well  for example [DummyJSON - Fake REST API of JSON data for development](https://dummyjson.com/)
+
+
 
 ## Day two(routing and templating)
 ## Day three(TBC)
