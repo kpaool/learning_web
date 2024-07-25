@@ -155,31 +155,36 @@ For submission, simply take screenshots of the api calls and results you get and
 Alternatively, look for more open api that you can interact with. You might to obtain API keys for the as well  for example [DummyJSON - Fake REST API of JSON data for development](https://dummyjson.com/)
 
 
+## Day two and three(routing and templating,DOM events and handling, Forms and input)
 
-## Day two(routing and templating)
-## Day three(TBC)
-
+#### Lab
+Change the progress animation using javascript and css. Replace the image
+Ensure that you display any error information as you wish.
 
 # Week four
-## Day one(DOM events and handling)
 
-## Day two(Forms and input)
+## Day one(Database)
 
-## Day three(Files system and upload)
+To understand database, consume the content below
+[PostgreSQL CRASH COURSE - Learn PostgreSQL in 2024 (youtube.com)](https://www.youtube.com/watch?v=zw4s3Ey8ayo&ab_channel=TroyAmelotte)
 
-# Week five
-## Day one(Database and ORM)
+Create an account with [Neon Serverless Postgres — Ship faster](https://neon.tech/) to access free postgres database for learning purpose
+Or install postgres on you machine [PostgreSQL: The world's most advanced open source database](https://www.postgresql.org/)
+
+[How to Connect Node js to PostgreSQL Database and Fetch data - YouTube](https://www.youtube.com/watch?v=_n-Ai30C1qs&ab_channel=KindsonTheTechPro)
 
 ## Day two(User login and register, logout)
 
 ## Day three(Add, update, delete movies )
 
-# Week six
+# Week five
 ## Day one(Save user reviews)
 
 ## Day two(Review and putting everything together)
 
 ## Day three(Deploy web app)
+
+# Week six
 
 
 References
