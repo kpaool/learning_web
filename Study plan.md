@@ -174,6 +174,11 @@ Or install postgres on you machine [PostgreSQL: The world's most advanced open s
 [How to Connect Node js to PostgreSQL Database and Fetch data - YouTube](https://www.youtube.com/watch?v=_n-Ai30C1qs&ab_channel=KindsonTheTechPro)
 
 ## Day two(User login and register, logout)
+Implement the pages below. Ensure they are in the templates folder
+![](assets/login.png)
+
+![](assets/register.png)
+
 
 ## Day three(Add, update, delete movies )
 
