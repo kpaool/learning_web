@@ -186,13 +186,22 @@ Implement the pages below. Ensure they are in the templates folder
 ## Day three(Add, update, delete movies )
 
 # Week five
+
+
+# Week six
+
 ## Day one(Save user reviews)
+
+The video below is how we can manage sessions for logging in
+[(21) ExpressJS Tutorial #6 - Sessions - YouTube](https://www.youtube.com/watch?v=oYGhoHW7zqI)
+
+The video below is how to write the star review system
+[(21) Star Rating System in HTML CSS & JavaScript | CodingNepal - YouTube](https://www.youtube.com/watch?v=rw3eZ6XodN8)
+
 
 ## Day two(Review and putting everything together)
 
 ## Day three(Deploy web app)
-
-# Week six
 
 
 References
